@@ -9,4 +9,4 @@ Recommended exercises / Рекомендуемые упрожнения: https:/
 
 Code examples / Примеры кода из видео: https://github.com/karina-klinkeviciute/python_lessons/tree/main/lesson_1
 
-(video in Russian will be added)
+Video in Russian: https://www.youtube.com/watch?v=ilZV8hrU6Pc 
