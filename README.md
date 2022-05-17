@@ -1,5 +1,5 @@
-# python_lessons
-Code examples and other material for lessons of Python that I am giving
+# Lessons of programming in Python
+Code examples and other material for lessons of Python that I am giving in Russian for Ukrainian women
 
 ## Lesson 1:
 
