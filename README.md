@@ -1,7 +1,7 @@
 # python_lessons
 Code examples and other material for lessons of Python that I am giving
 
-Lesson 1:
+## Lesson 1:
 
 Slides for the lesson (in Russian) / Слаиды урока: https://docs.google.com/presentation/d/1UOUFXkp3RDkMzRF6Z1qfap3Bskv56NFuFO-w039XEbE/edit#slide=id.g11b865b6bac_0_0
 
