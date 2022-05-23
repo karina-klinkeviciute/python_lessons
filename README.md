@@ -10,3 +10,9 @@ Recommended exercises / Рекомендуемые упрожнения: https:/
 Code examples / Примеры кода из видео: https://github.com/karina-klinkeviciute/python_lessons/tree/main/lesson_1
 
 Video in Russian: https://www.youtube.com/watch?v=ilZV8hrU6Pc 
+
+## Lesson 2:
+
+Video in Russian: https://www.youtube.com/watch?v=KUOxfjRpndQ 
+
+[Code examples](/lesson_2)
