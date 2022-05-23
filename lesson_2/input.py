@@ -1,7 +1,8 @@
-word = input()
-print("word:", word)
+# word = input()
+# print("word:", word)
 
-name = input("як тебе звати? ")
+print("як тебе звати? ")
+name = input()
 print("привіт ", name)
 
 city = input("де ти живеш? ")
