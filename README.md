@@ -16,3 +16,7 @@ Video in Russian: https://www.youtube.com/watch?v=ilZV8hrU6Pc
 Video in Russian: https://www.youtube.com/watch?v=KUOxfjRpndQ 
 
 [Code examples](/lesson_2)
+
+## Lesson 3:
+
+Video in Russian: https://www.youtube.com/watch?v=fNKPx0BysNw
