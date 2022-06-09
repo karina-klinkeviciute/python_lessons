@@ -20,3 +20,5 @@ Video in Russian: https://www.youtube.com/watch?v=KUOxfjRpndQ
 ## Lesson 3:
 
 Video in Russian: https://www.youtube.com/watch?v=fNKPx0BysNw
+
+[Code examples](/lesson_3)
